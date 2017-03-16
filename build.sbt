@@ -1,4 +1,4 @@
-name := "chisel-module-template"
+name := "chisel-projects"
 
 version := "1.0"
 
